@@ -1,0 +1,45 @@
+h1 {
+  color: rgb(224, 67, 211);
+  text-align: center;
+  font-size: x-large;
+}
+.row {
+  display: flex;
+}
+.column {
+  width: auto;
+}
+.w3-border {
+  border-color: rgb(100, 10, 184);
+}
+.box {
+  background-color: lightblue;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+h3 {
+  color: blue;
+  font-size: large;
+  text-align: center;
+}
+
+.header {
+  background-color: rgb(179, 102, 14);
+  border: 3px solid rgb(12, 12, 11);
+  width: 50%;
+  padding-left: 5px;
+  margin-top: 30px;
+}
+
+.card {
+  background-color: rgb(245, 232, 114);
+  padding: 2px 10px 2px 2px;
+  width: 300px;
+  margin-right: 30px;
+}
+img {
+  padding-right: 2px;
+  padding-left: 2px;
+}
